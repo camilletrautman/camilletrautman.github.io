@@ -3,8 +3,8 @@ permalink:           pretty
 
 # Setup
 title:               Camille Trautman
-tagline:             PhD Student in Atlanta, GA.
-url:                 https://jamigibbs.com
+tagline:             PhD Student & science communicator in Atlanta
+url:                 https://camilletrautman.github.io
 paginate:            1
 baseurl:             ""
 
@@ -26,9 +26,9 @@ version:             2.0.1
 github:
   repo:              https://github.com/camilletrautman/portfolio
 google_analytics:    UA-3363703-15
-twitter:             jamigibbs
-github:              jamigibbs
-dribbble:            jamigibbs
+twitter:             trautmancamille
+medium:              camilletrautman
+github:              camilletrautman
 
 # Gems
 plugins:
