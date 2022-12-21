@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Jami Gibbs
-tagline:             Software Developer from Chicago.
+title:               Camille Trautman
+tagline:             PhD Student in Atlanta, GA.
 url:                 https://jamigibbs.com
 paginate:            1
 baseurl:             ""
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Jami Gibbs
-  url:               https://twitter.com/jamigibbs
-  email:             jami0821@gmail.com
+  name:              Camille Trautman
+  url:               https://twitter.com/trautmancamille
+  email:             cwtrautman@gmail.com
 
 # Custom vars
 version:             2.0.1
 github:
-  repo:              https://github.com/jamigibbs/portfolio
+  repo:              https://github.com/camilletrautman/portfolio
 google_analytics:    UA-3363703-15
 twitter:             jamigibbs
 github:              jamigibbs
